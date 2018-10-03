@@ -1,0 +1,5 @@
+[2018-10-03 14:45:45] -- [FATAL] -- cn.edu.hust.learn_log4j_01 -- 11 -- fatal msg
+[2018-10-03 14:45:45] -- [ERROR] -- cn.edu.hust.learn_log4j_01 -- 12 -- error msg
+[2018-10-03 14:45:45] -- [WARN ] -- cn.edu.hust.learn_log4j_01 -- 13 -- warn msg
+[2018-10-03 14:45:45] -- [INFO ] -- cn.edu.hust.learn_log4j_01 -- 14 -- info msg
+[2018-10-03 14:45:45] -- [DEBUG] -- cn.edu.hust.learn_log4j_01 -- 15 -- debug msg
